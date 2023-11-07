@@ -26,6 +26,7 @@ Everybody runs a client. It can be a native client, a web client, etc. To publis
 - Twitter bans people;
 - Twitter shadowbans people;
 - Twitter has a lot of spam.
+### Twitter has a lot of spam.
 
 ### The problem with Mastodon and similar programs
 
